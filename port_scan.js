@@ -1,3 +1,4 @@
+/*NOTE: This has been replaced with port_scan_detect.py*/
 var http = require("http")
 var port =  40 //a port you want to protect
 http.createServer(function(req,res){
